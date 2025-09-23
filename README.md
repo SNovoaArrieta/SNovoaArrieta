@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sofia Novoa Arrieta</h1>
-<h3 align="center">passionate about software development</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snovoaarrieta&label=Profile%20views&color=0e75b6&style=flat" alt="snovoaarrieta" /> </p>
 
